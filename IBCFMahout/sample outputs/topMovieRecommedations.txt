@@ -1,0 +1,31 @@
+The top 10 recommended movies for user id: 495 are following:
+1:RecommendedItem[item:489, value:5.0]
+Movie name:Notorious (1946)
+
+2:RecommendedItem[item:488, value:5.0]
+Movie name:Sunset Blvd. (1950)
+
+3:RecommendedItem[item:359, value:5.0]
+Movie name:Assignment, The (1997)
+
+4:RecommendedItem[item:299, value:5.0]
+Movie name:Hoodlum (1997)
+
+5:RecommendedItem[item:260, value:5.0]
+Movie name:Event Horizon (1997)
+
+6:RecommendedItem[item:342, value:5.0]
+Movie name:Man Who Knew Too Little, The (1997)
+
+7:RecommendedItem[item:34, value:5.0]
+Movie name:Doom Generation, The (1995)
+
+8:RecommendedItem[item:276, value:5.0]
+Movie name:Leaving Las Vegas (1995)
+
+9:RecommendedItem[item:245, value:5.0]
+Movie name:Devil's Own, The (1997)
+
+10:RecommendedItem[item:165, value:5.0]
+Movie name:Jean de Florette (1986)
+

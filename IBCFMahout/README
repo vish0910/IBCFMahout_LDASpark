@@ -1,0 +1,9 @@
+README
+
+The RecommenderTest.java will do an Item Based Collabarative Filtering using Pearson's Correlation as a similarity measure using Mahout.
+
+Please provide user_id of user, of which you want the the movie recommendations as an argument to the program
+
+Format: java <CLASS-NAME> <USERID>
+
+NOTE: Make sure there is a folder name "input" with MovieLense's dataset's files: "u.item" and "u.data" [ie.  input/u.item and input/u.data]
